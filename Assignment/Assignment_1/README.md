@@ -1,4 +1,4 @@
-#Government Enterprise Architecture Frameworks (GEAFs)
+# Government Enterprise Architecture Frameworks (GEAFs)
 ---
 
 Government Enterprise Architecture is defined as a whole of government approach to support government ecosystems by transcending boundaries for delivering services in a coordinated, efficient, and equitable manner.
@@ -43,11 +43,10 @@ GEAF benefits:
 - Design a future operating model that is technically and strategically aligned with all-of-government programs and services
 
 ---
-** Assignment Submission Date: 25 Nov 2021
+**Assignment Submission Date: 25 Nov 2021**
 
-Assignment Deadline: 26 Nov 2021 (Friday)
+**Assignment Deadline: 26 Nov 2021 (Friday)**
 
-Submitted by: Ena Gurung
+**Submitted by: Ena Gurung**
 
-Roll no.: 13
-**
+**Roll no.: 13**
