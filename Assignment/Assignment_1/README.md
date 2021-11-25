@@ -1,5 +1,4 @@
 # Government Enterprise Architecture Frameworks (GEAFs)
----
 
 Government Enterprise Architecture is defined as a whole of government approach to support government ecosystems by transcending boundaries for delivering services in a coordinated, efficient, and equitable manner.
 
