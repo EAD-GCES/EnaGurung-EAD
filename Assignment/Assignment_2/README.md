@@ -41,7 +41,7 @@ Similar to other methodologies of Agile, Crystal also addresses prompt delivery 
 To address the need for a standard industry charter for the swift delivery of software, the Dynamic Systems Development Method (DSDM) was developed. DSDM gives a comprehensive structure that is defined and modified to create a plan, execute, manage, and scale the procedure of software development. Based on a business-driven approach and eight principles, the DSDM believes that modifications to the project are always expected, and quality with timely delivery must never be negotiated.
 
 ---
-**Assignment Submission Date: 05 Jan 2021**
+**Assignment Submission Date: 21 Jan 2021**
 
 **Assignment Deadline: 08 Jan 2022**
 
